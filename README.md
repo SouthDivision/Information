@@ -12,8 +12,8 @@ If need support, 🆘 contact us: <a href="mailto:contact@southdivision.net">con
 
 |                |       Status          |     🚥     |
 |----------------|-----------------------|------------|
-|Ark Survival    |`Working in progress`  |     🟡     |
+|Ark Survival    |`Done`                 |     🟢     |
 |Conan Exiles    |`Unstarted`            |     🔴     |
-|Minecraft       |`Done`                 |     🟢     |
-|Project Zomboid |`Working in progress`  |     🟡     |
-|Rust            |`Unstarted`            |     🔴     |
+|Minecraft       |`Done`                 |     🔴     |
+|Project Zomboid |`Unstarted`            |     🔴     |
+|Rust            |`Working in progress`  |     🟡     |
